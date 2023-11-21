@@ -2,12 +2,10 @@
 Weekly practical workshops (AI for text and Vision)
 
 
-# Key learninggs - 
+# Key learnings - 
 
 Image Segmentation vs Image classification
-Convolution Neural Netwroks
-
-Pre-trainning
+Convolution Neural Netwroks | Pre-trainning
 
 Fine-tuning
 
