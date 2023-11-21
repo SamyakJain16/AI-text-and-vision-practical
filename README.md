@@ -4,4 +4,18 @@ Weekly practical workshops (AI for text and Vision)
 
 # Key learnings - 
 
-Image Segmentation vs Image classification | Convolution Neural Netwroks | Pre-trainning | Fine-tuning | Transfer Learniing | Text Vectorization | Tranformers
+Image classification 
+
+Image Segmentation 
+
+Convolution Neural Netwroks
+
+Pre-trained models
+
+Transfer Learning
+
+Fine-tuning 
+
+Text Vectorization 
+
+Transformer architecture
